@@ -1,0 +1,4 @@
+== Testing shoulda-matchers
+
+showcase for issues discussed in https://github.com/thoughtbot/shoulda-matchers/issues/179
+
